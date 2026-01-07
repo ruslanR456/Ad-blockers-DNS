@@ -8,4 +8,4 @@ https://ruslanr456.github.io/Ad-blockers-DNS/
 
 Made to help people 
 
-We dont work eith adguard
+We dont work with adguard
