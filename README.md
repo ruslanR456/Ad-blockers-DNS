@@ -1,4 +1,11 @@
 # Ads-blockers-DNS
-Block add's by DNS and IP 
+Block ad's by DNS and IP 
+
+viewe in:
+
+https://ruslanr456.github.io/Ad-blockers-DNS/
 
 
+Made to help people 
+
+We dont work eith adguard
