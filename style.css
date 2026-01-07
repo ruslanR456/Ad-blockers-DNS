@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.conatiner{
+    background-color: lightblue;
+}
+.subtitle{
+    color: rgb(161, 161, 161);
+}
+.footer{
+    background-color: rgb(42, 65, 107);
+    color: white;
+    /*make it be at bottom*/
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.link{
+    color:rgb(0, 255, 55);
+}
+.link:hover{
+    color: yellow;
+}
